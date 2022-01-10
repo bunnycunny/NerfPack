@@ -3,7 +3,7 @@ Collection of nerfs of Payday 2 things.
 
 # Changes
 Perk Decks:  
-  Hacker:  
+  &emsp;Hacker:  
     Passive dodge reduced by 15%  
   Armorer & Anarchist:  
     2s cooldown increased 15s --> 20s  
