@@ -12,6 +12,6 @@ Perk Decks:
   &emsp;Kingpin:  
     &emsp;&emsp;Injector cooldown 30s --> 48s  
    
- Skills:
+ Skills:  
   &emsp;Inspire cooldown 20s --> 60s  
   &emsp;Unseen Strike Aced duration 18s --> 12s
