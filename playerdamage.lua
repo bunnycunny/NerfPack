@@ -1,0 +1,1 @@
+PlayerDamage._UPPERS_COOLDOWN = 20
