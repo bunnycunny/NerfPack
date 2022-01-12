@@ -15,3 +15,4 @@ Perk Decks:
  Skills:  
   &emsp;Inspire cooldown 20s --> 60s  
   &emsp;Unseen Strike Aced duration 18s --> 12s
+  $emsp;Uppers Aced self revive cooldown 20s --> 40s
