@@ -25,3 +25,5 @@ Skills:
 Weapons:  
   &emsp;LMGs pickup reduced  
   &emsp;168 and 255 sniper rifle pickup reduced  
+  &emsp;Contractor:  
+  &emsp;&emsp;Reload speed increased by 10%  
