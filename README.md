@@ -17,7 +17,11 @@ Perk Decks:
     &emsp;&emsp;Ampule does not prevent dying for the duration anymore  
     &emsp;&emsp;Ampule can't be used to revive yourself anymore  
    
- Skills:  
+Skills:  
   &emsp;Inspire cooldown 20s --> 60s  
   &emsp;Unseen Strike Aced duration 18s --> 12s  
   &emsp;Uppers Aced self revive cooldown 20s --> 40s  
+  
+Weapons:
+  &emsp;LMGs pickup reduced
+  &emsp;168 and 255 sniper rifle pickup reduced
