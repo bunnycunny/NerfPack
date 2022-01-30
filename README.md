@@ -26,4 +26,6 @@ Weapons:
   &emsp;LMGs pickup reduced  
   &emsp;168 and 255 sniper rifle pickup reduced  
   &emsp;Contractor:  
-  &emsp;&emsp;Reload speed increased by 10%  
+  &emsp;&emsp;Reload speed time increased by 10%  
+  &emsp;Akimbo Goliaths:  
+  &emsp;&emsp;Reload speed time increased by 10%  
