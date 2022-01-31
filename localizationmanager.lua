@@ -12,6 +12,12 @@ Hooks:Add("LocalizationManagerPostInit", "nerfpack_replace_localizationmanager",
 			["menu_unseen_strike_beta_desc"] = "BASIC: ##$basic##\nIf you do not lose any armor or health for ##4## seconds, you gain ##35%## critical hit chance for ##6## seconds.\n\nACE: ##$pro##\nThe critical hit chance duration is increased to ##12## seconds.\n\nTaking any damage will cancel the effect."
     		} 
 	)
+	loc:add_localized_strings( 
+		{
+			menu_fire_control_beta = "Fire Control",
+			["menu_fire_control_beta_desc"] = "BASIC: ##$basic##\nYou gain ##12## weapon accuracy while firing from the hip. \n\nACE: ##$pro##\nYour accuracy penalty is decreased by ##20%## when shooting while moving."
+		}
+	)	
 	--perk decks
 	loc:add_localized_strings(
 		{
