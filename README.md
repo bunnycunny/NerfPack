@@ -23,9 +23,8 @@ Skills:
   &emsp;Uppers Aced self revive cooldown 20s --> 40s  
   
 Weapons:  
-  &emsp;LMGs pickup reduced  
-  &emsp;168 and 255 sniper rifle pickup reduced  
+  &emsp;LMGs pickup reduced by 10% 
   &emsp;Contractor:  
-  &emsp;&emsp;Reload speed time increased by 10%  
+  &emsp;&emsp;Reload speed time increased by 20%  
   &emsp;Akimbo Goliaths:  
   &emsp;&emsp;Reload speed time increased by 10%  
