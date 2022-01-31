@@ -29,6 +29,7 @@ Hooks:PostHook(WeaponTweakData, "init", "nerfpack_weapontweakdata", function(sel
 	self.rpk.AMMO_PICKUP = { 6.75, 9.45 }
 	self.m60.AMMO_PICKUP = { 6.75, 9.45 }
 	self.hk21.AMMO_PICKUP = { 6.75, 9.45 }
-	
-	
+		
+	--commando total ammo reduced in half
+	self.ray.AMMO_MAX = 4
 end)
