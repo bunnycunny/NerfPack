@@ -18,9 +18,11 @@ Perk Decks:
     &emsp;&emsp;Ampule can't be used to revive yourself anymore  
    
 Skills:  
-  &emsp;Inspire cooldown 20s --> 60s  
-  &emsp;Unseen Strike Aced duration 18s --> 12s  
-  &emsp;Uppers Aced self revive cooldown 20s --> 40s  
+  &emsp;Mastermind:  
+  &emsp;&emsp;Inspire cooldown 20s --> 60s  
+  &emsp;&emsp;Uppers Aced self revive cooldown 20s --> 40s  
+  &emsp;Ghost:  
+  &emsp;&emsp;Unseen Strike Aced duration 18s --> 12s  
   
 Weapons:  
   &emsp;LMGs pickup reduced by 10%  
