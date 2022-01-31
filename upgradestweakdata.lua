@@ -32,6 +32,14 @@ function UpgradesTweakData:_init_pd2_values()
 				12
 			}
 		}
+		fire_control = {
+			{
+				"8"
+			},
+			{
+				"20%"
+			}
+		}
 end
 
 Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdata", function(self)
