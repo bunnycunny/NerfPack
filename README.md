@@ -25,7 +25,7 @@ Skills:
   &emsp;&emsp;Unseen Strike Aced duration 18s --> 12s  
   
 Weapons:  
-  &emsp;Primary:
+  &emsp;Primary:  
   &emsp;&emsp;LMGs pickup reduced by 10%  
   &emsp;&emsp;Contractor:  
   &emsp;&emsp;&emsp;Reload speed time increased by 20%  
