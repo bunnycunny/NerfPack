@@ -32,5 +32,5 @@ Weapons:
   &emsp;&emsp;Reload speed time increased by 10%  
   &emsp;Commando 101:  
   &emsp;&emsp;Total ammo reduced by 50%  
-  &emsp;5/7:
-  &emsp;&emsp;Rate of Fire 600 --> 480
+  &emsp;5/7:  
+  &emsp;&emsp;Rate of Fire 600 --> 480  
