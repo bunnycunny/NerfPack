@@ -25,12 +25,15 @@ Skills:
   &emsp;&emsp;Unseen Strike Aced duration 18s --> 12s  
   
 Weapons:  
-  &emsp;LMGs pickup reduced by 10%  
-  &emsp;Contractor:  
-  &emsp;&emsp;Reload speed time increased by 20%  
-  &emsp;Akimbo Goliaths:  
-  &emsp;&emsp;Reload speed time increased by 10%  
-  &emsp;Commando 101:  
-  &emsp;&emsp;Total ammo reduced by 50%  
-  &emsp;5/7:  
-  &emsp;&emsp;Rate of Fire 600 --> 480  
+  &emsp;Primary:
+  &emsp;&emsp;LMGs pickup reduced by 10%  
+  &emsp;&emsp;Contractor:  
+  &emsp;&emsp;&emsp;Reload speed time increased by 20%  
+  &emsp;&emsp;Akimbo Goliaths:  
+  &emsp;&emsp;&emsp;Reload speed time increased by 10% 
+    
+  &emsp;Secondary:
+  &emsp;&emsp;Commando 101:  
+  &emsp;&emsp;&emsp;Total ammo reduced by 50%  
+  &emsp;&emsp;5/7:  
+  &emsp;&emsp;&emsp;Rate of Fire 600 --> 480  
