@@ -52,4 +52,4 @@ Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdat
 	self.specialization_descs[19][1].multiperk2 = "50%"
 	self.specialization_descs[22][1].multiperk3 = "5"
 	self.specialization_descs[22][1].multiperk6 = "40"
-end)
+end )
