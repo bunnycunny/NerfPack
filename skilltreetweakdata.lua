@@ -1,4 +1,4 @@
-Hooks:PostHook(SkillTreeTweakData, "init", "replace_skilltreetweakdata", function(self)
+Hooks:PostHook(SkillTreeTweakData, "init", "nerfpack_replace_skilltreetweakdata", function(self)
 	self.specializations[21][9].upgrades = {
 		"player_passive_loot_drop_multiplier",
 		"team_pocket_ecm_heal_on_kill_1"
@@ -10,7 +10,7 @@ Hooks:PostHook(SkillTreeTweakData, "init", "replace_skilltreetweakdata", functio
 		"player_copr_speed_up_on_kill_1"
 	}
 	self.specializations[22][9].upgrades = {
-			"player_passive_loot_drop_multiplier",
-			"player_passive_health_multiplier_4"
+		"player_passive_loot_drop_multiplier",
+		"player_passive_health_multiplier_4"
 	}
 end)
