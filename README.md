@@ -13,7 +13,7 @@ Perk Decks:
     &emsp;&emsp;Injector cooldown 30s --> 48s  
   &emsp;Leech:  
     &emsp;&emsp;Ampule duration 10s --> 6s  
-    &emsp;&emsp;Health Segments 10 --> 5  
+    &emsp;&emsp;Ampule cooldown 30s --> 60s  
     &emsp;&emsp;Ampule does not prevent dying for the duration anymore  
     &emsp;&emsp;Ampule can't be used to revive yourself anymore  
    
