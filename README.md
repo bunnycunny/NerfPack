@@ -19,10 +19,12 @@ Perk Decks:
    
 Skills:  
   &emsp;Mastermind:  
-  &emsp;&emsp;Inspire cooldown 20s --> 60s  
-  &emsp;&emsp;Uppers Aced self revive cooldown 20s --> 40s  
+    &emsp;&emsp;Inspire cooldown 20s --> 60s  
+    &emsp;&emsp;Uppers Aced self revive cooldown 20s --> 40s  
+  &emsp;Technician  
+  &emsp;&emsp;Fire Control basic 12 accuracy --> 8 accuracy  
   &emsp;Ghost:  
-  &emsp;&emsp;Unseen Strike Aced duration 18s --> 12s  
+    &emsp;&emsp;Unseen Strike Aced duration 18s --> 12s  
   
 Weapons:  
   &emsp;Primary:  
