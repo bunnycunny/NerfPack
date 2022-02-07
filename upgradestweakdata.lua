@@ -55,6 +55,7 @@ Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdat
 	self.skill_descs.inspire.multipro2 = "40"
 	self.skill_descs.tea_cookies.multipro4 = "30"
 	self.skill_descs.unseen_strike.multipro2 = "12"
+	self.skill_descs.fire_control.multibasic = "8"
 	
 	
 	--perk deck descriptions
