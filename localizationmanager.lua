@@ -1,11 +1,4 @@
 Hooks:Add("LocalizationManagerPostInit", "nerfpack_replace_localizationmanager", function(loc)
-	--skills
-	loc:add_localized_strings( 
-		{
-			menu_fire_control_beta = "Fire Control",
-			["menu_fire_control_beta_desc"] = "BASIC: ##$basic##\nYou gain ##8## weapon accuracy while firing from the hip. \n\nACE: ##$pro##\nYour accuracy penalty is decreased by ##20%## when shooting while moving."
-		}
-	)	
 	--perk decks
 	loc:add_localized_strings(
 		{
