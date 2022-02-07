@@ -18,9 +18,38 @@ Hooks:PostHook(WeaponTweakData, "init", "nerfpack_weapontweakdata", function(sel
 	self.lemming.single = {
 		fire_rate = 0.125
 	}
-	
+	--168 sniper rifles rate of fire nerf 150 to 125
+	self.tti.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.tti.single = {
+		fire_rate = 0.48
+	}
+	self.wa2000.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.wa2000.single = {
+		fire_rate = 0.48
+	}
+	self.siltstone.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.siltstone.single = {
+		fire_rate = 0.48
+	}
+	self.qbu88.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.qbu88.single = {
+		fire_rate = 0.48
+	}
 	-- +0.5s reload for compact gl
 	self.slap.timers.reload_not_empty = 3
+		
+	--255 sniper rifles pickup nerf 20%
+	self.msr.AMMO_PICKUP = { 1.6, 2.4 }
+	self.r700.AMMO_PICKUP = { 1.6, 2.4 }
+	self.winchester1874.AMMO_PICKUP = { 1.8, 3.0216 }
 		
 	--lmg ammo pickup nerfs -10% for all
 	self.mg42.AMMO_PICKUP = { 10.125, 12.15 }

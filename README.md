@@ -30,6 +30,8 @@ Skills:
 Weapons:  
   &emsp;All speedpull effects reduced from 50% to about 40% speed increase.  
   &emsp;Primary:  
+  &emsp;&emsp;255 Sniper Rifle pickup reduced by 20%  
+  &emsp;&emsp;168 Sniper Rifle rate of fire reduced from 150 --> 125  
   &emsp;&emsp;LMGs pickup reduced by 10%  
   &emsp;&emsp;Lebensauger:  
   &emsp;&emsp;&emsp;Total ammo 60 --> 45  
@@ -41,5 +43,7 @@ Weapons:
   &emsp;Secondary:  
   &emsp;&emsp;Commando 101:  
   &emsp;&emsp;&emsp;Total ammo reduced by 50%  
+  &emsp;&emsp;Compact 40mm GL:  
+  &emsp;&emsp;&emsp;Reload Speed increased from 2.5s --> 3s  
   &emsp;&emsp;5/7:  
   &emsp;&emsp;&emsp;Rate of Fire 600 --> 480  
