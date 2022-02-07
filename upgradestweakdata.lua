@@ -7,14 +7,14 @@ Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdat
 	}
 	self.values.player.damage_control_passive = {
 		{
-			50,
+			30,
 			9
 		}
 	}
 	self.values.cooldown.long_dis_revive = {
 		{
 			1,
-			60
+			40
 		}
 	}
 	self.values.temporary.unseen_strike = {
