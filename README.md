@@ -6,7 +6,7 @@ Perk Decks:
   &emsp;Hacker:  
     &emsp;&emsp;Passive dodge reduced by 15%  
   &emsp;Armorer & Anarchist:  
-    &emsp;&emsp;2s cooldown increased 15s --> 20s  
+    &emsp;&emsp;2s cooldown increased 15s --> 16s  
   &emsp;Stoic:  
     &emsp;&emsp;Now takes 25% --> 50% damage upfront and 75% --> 50% overtime  
   &emsp;Kingpin:  
