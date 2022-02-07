@@ -52,7 +52,9 @@ Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdat
 	}
 	--skill descriptions
 	self.skill_descs.speedy_reload.multipro = "75%"
-		
+	self.skill_descs.inspire.multipro2 = "40"
+	self.skill_descs.tea_cookies.multipro4 = "30"
+	
 	--perk deck descriptions
 	self.specialization_descs[3][7].multiperk3 = "16"
 	self.specialization_descs[17][1].multiperk3 = "36"
