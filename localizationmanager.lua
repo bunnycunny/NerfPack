@@ -8,6 +8,12 @@ Hooks:Add("LocalizationManagerPostInit", "nerfpack_replace_localizationmanager",
 	)
 	loc:add_localized_strings( 
 		{
+			menu_tea_cookies_beta = "Uppers",
+			["menu_tea_cookies_beta_desc"] = "BASIC: ##$basic##\nAdds ##7## more First Aid Kits to your inventory. \n\nACE: ##$pro##\nAdds ##3## First Aid Kits to your inventory. Your deployed First Aid Kits will be automatically used if a player is downed within a ##5## meter radius of the First Aid Kit. This cannot occur more than once every ##40## seconds. "
+		}
+	)	
+	loc:add_localized_strings( 
+		{
 			menu_unseen_strike_beta = "Unseen Strike",
 			["menu_unseen_strike_beta_desc"] = "BASIC: ##$basic##\nIf you do not lose any armor or health for ##4## seconds, you gain ##35%## critical hit chance for ##6## seconds.\n\nACE: ##$pro##\nThe critical hit chance duration is increased to ##12## seconds.\n\nTaking any damage will cancel the effect."
     		} 
