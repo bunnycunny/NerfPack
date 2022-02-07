@@ -13,10 +13,10 @@ Hooks:PostHook(WeaponTweakData, "init", "nerfpack_weapontweakdata", function(sel
 	
 	--5/7 rof nerf
 	self.lemming.fire_mode_data = {
-		fire_rate = 0.0125
+		fire_rate = 0.125
 	}
 	self.lemming.single = {
-		fire_rate = 0.0125
+		fire_rate = 0.125
 	}
 	
 	-- +0.5s reload for compact gl
