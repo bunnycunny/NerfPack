@@ -8,9 +8,9 @@ Perk Decks:
   &emsp;Armorer & Anarchist:  
     &emsp;&emsp;2s cooldown increased 15s --> 16s  
   &emsp;Stoic:  
-    &emsp;&emsp;Now takes 25% --> 50% damage upfront and 75% --> 50% overtime  
+    &emsp;&emsp;Now takes 25% --> 30% damage upfront and 75% --> 70% overtime  
   &emsp;Kingpin:  
-    &emsp;&emsp;Injector cooldown 30s --> 48s  
+    &emsp;&emsp;Injector cooldown 30s --> 36s  
   &emsp;Leech:  
     &emsp;&emsp;Ampule duration 10s --> 6s  
     &emsp;&emsp;Ampule cooldown 30s --> 60s  
