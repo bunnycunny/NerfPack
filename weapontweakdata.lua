@@ -18,7 +18,31 @@ Hooks:PostHook(WeaponTweakData, "init", "nerfpack_weapontweakdata", function(sel
 	self.lemming.single = {
 		fire_rate = 0.125
 	}
-	
+	--168 sniper rifles rate of fire nerf 150 to 125
+	self.tti.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.tti.single = {
+		fire_rate = 0.48
+	}
+	self.wa2000.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.wa2000.single = {
+		fire_rate = 0.48
+	}
+	self.siltstone.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.siltstone.single = {
+		fire_rate = 0.48
+	}
+	self.qbu88.fire_mode_data = {
+		fire_rate = 0.48
+	}
+	self.qbu88.single = {
+		fire_rate = 0.48
+	}
 	-- +0.5s reload for compact gl
 	self.slap.timers.reload_not_empty = 3
 		
