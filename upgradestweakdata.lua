@@ -44,19 +44,6 @@ Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdat
 			2,
 			5
 	}
-	--uppers
-	local editable_skill_descs.tea_cookies = {
-		{
-			"3",
-			"7"
-		},
-		{
-			"7",
-			"5",
-			"3",
-			"40"
-		}
-	}
 	--perk deck descriptions
 	self.specialization_descs[3][7].multiperk3 = "16"
 	self.specialization_descs[17][1].multiperk3 = "48"
