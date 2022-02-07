@@ -3,7 +3,7 @@ Hooks:Add("LocalizationManagerPostInit", "nerfpack_replace_localizationmanager",
 	loc:add_localized_strings( 
 		{
 			menu_inspire_beta = "Inspire",
-			["menu_inspire_beta_desc"] = "BASIC: ##$basic##\nYou revive crew members ##100%## faster. Shouting at your teammates will increase their movement and reload speed by ##20%## for ##10## seconds. \n\nACE: ##$pro##\nThere is a ##100%## chance that you can revive crew members at a distance of up to ##9## meters by shouting at them. This cannot occur more than once every ##60## seconds."
+			["menu_inspire_beta_desc"] = "BASIC: ##$basic##\nYou revive crew members ##100%## faster. Shouting at your teammates will increase their movement and reload speed by ##20%## for ##10## seconds. \n\nACE: ##$pro##\nThere is a ##100%## chance that you can revive crew members at a distance of up to ##9## meters by shouting at them. This cannot occur more than once every ##40## seconds."
 		}
 	)
 	loc:add_localized_strings( 
