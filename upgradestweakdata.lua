@@ -7,7 +7,7 @@ Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdat
 	}
 	self.values.player.damage_control_passive = {
 		{
-			30,
+			70,
 			9
 		}
 	}
