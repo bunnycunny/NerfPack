@@ -21,6 +21,7 @@ Skills:
   &emsp;Mastermind:  
     &emsp;&emsp;Inspire cooldown 20s --> 40s  
     &emsp;&emsp;Uppers Aced self revive cooldown 20s --> 30s  
+    &emsp;&emsp;Aggressive Reload Aced reload speed increase 100% --> 75%  
   &emsp;Technician  
   &emsp;&emsp;Fire Control basic 12 accuracy --> 8 accuracy  
   &emsp;Ghost:  
