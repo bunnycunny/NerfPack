@@ -27,7 +27,7 @@ Skills:
     &emsp;&emsp;Unseen Strike Aced duration 18s --> 12s  
   
 Weapons:  
-  &emsp;All speedpull effects reduced from 50% to about 40% speed increase.  
+  &emsp;All speedpull effects reduced from 50% to about 1/3rd speed increase.  
   &emsp;Primary:  
   &emsp;&emsp;LMGs pickup reduced by 10%  
   &emsp;&emsp;Lebensauger:  
