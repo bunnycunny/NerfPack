@@ -11,7 +11,12 @@ Hooks:Add("LocalizationManagerPostInit", "nerfpack_replace_localizationmanager",
 			menu_tea_cookies_beta = "Uppers",
 			["menu_tea_cookies_beta_desc"] = "BASIC: ##$basic##\nAdds ##7## more First Aid Kits to your inventory. \n\nACE: ##$pro##\nAdds ##3## First Aid Kits to your inventory. Your deployed First Aid Kits will be automatically used if a player is downed within a ##5## meter radius of the First Aid Kit. This cannot occur more than once every ##40## seconds. "
 		}
-	)	
+	)
+	loc:add_localized_strings( 
+		{
+			menu_speedy_reload_beta = "Aggressive Reload",
+			["menu_speedy_reload_beta_desc"] = "BASIC: ##$basic##\nIncreases your reload speed with SMGs, Assault Rifles and Sniper Rifles by ##15%.## \n\nACE: ##$pro##\nAny killing headshot will increase your reload speed by ##75%## for ##4## seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode. "
+	)
 	loc:add_localized_strings( 
 		{
 			menu_unseen_strike_beta = "Unseen Strike",
