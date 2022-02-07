@@ -5,7 +5,7 @@ Hooks:PostHook(WeaponTweakData, "init", "nerfpack_weapontweakdata", function(sel
 	
 	--lebensauger ammo pickup so its like all the other 168s and total capacity nerf
 	self.wa2000.AMMO_MAX = 45
-	self.wa2000.AMMO_PICKUP = { 2.70, 4.05 }
+	self.wa2000.AMMO_PICKUP = { 2, 3 }
 
 	--akimbo goliaths 10% reload speed nerf
 	self.x_rota.timers.reload_not_empty = 3.3
