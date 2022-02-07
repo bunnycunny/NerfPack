@@ -29,6 +29,9 @@ Skills:
 Weapons:  
   &emsp;Primary:  
   &emsp;&emsp;LMGs pickup reduced by 10%  
+  &emsp;&emsp;Lebensauger:  
+  &emsp;&emsp;&emsp;Total ammo 60 --> 45  
+  &emsp;&emsp;&emsp;Pickup normalised for it's damage class  
   &emsp;&emsp;Contractor:  
   &emsp;&emsp;&emsp;Reload speed time increased by 20%  
   &emsp;&emsp;Akimbo Goliaths:  
