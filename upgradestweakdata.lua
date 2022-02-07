@@ -35,6 +35,12 @@ Hooks:PostHook(UpgradesTweakData, "init", "nerfpack_replace_upgradestreetweakdat
 			"20%"
 		}
 	}
+	self.values.temporary.single_shot_fast_reload = {
+		{
+			1.75,
+			4
+		}
+	}
 		
 	--leech nerf cooldown
 	self.copr_ability_cooldown = 60
