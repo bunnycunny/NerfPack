@@ -29,6 +29,7 @@ Skills:
   
 Weapons:  
   &emsp;All speedpull effects reduced from 50% to about 40% speed increase.  
+  &emsp;Dragonsbreath shotgun ammo ticks reduced from 5x100 --> 4x100  
   &emsp;Primary:  
   &emsp;&emsp;255 Sniper Rifle pickup reduced by 20%  
   &emsp;&emsp;168 Sniper Rifle rate of fire reduced from 150 --> 125  
