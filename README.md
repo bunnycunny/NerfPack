@@ -40,8 +40,8 @@ Weapons:
   &emsp;&emsp;Contractor:  
   &emsp;&emsp;&emsp;Reload speed time increased by 20%  
   &emsp;&emsp;Akimbo Goliaths:  
-  &emsp;&emsp;&emsp;Reload speed time increased by 10%
-  &emsp;&emsp;&emsp;Rate of fire reduced 333 --> 300
+  &emsp;&emsp;&emsp;Reload speed time increased by 10%  
+  &emsp;&emsp;&emsp;Rate of fire reduced 333 --> 300  
   &emsp;Secondary:  
   &emsp;&emsp;Commando 101:  
   &emsp;&emsp;&emsp;Total ammo reduced by 50%  
