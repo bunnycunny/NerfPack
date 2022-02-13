@@ -11,6 +11,14 @@ Hooks:PostHook(WeaponTweakData, "init", "nerfpack_weapontweakdata", function(sel
 	self.x_rota.timers.reload_not_empty = 3.3
 	self.x_rota.timers.reload_empty = 3.85
 	
+	--akimbo goliaths 333 --> 300 rof
+	self.x_rota.fire_mode_data = {
+		fire_rate = 0.2
+	}
+	self.lemming.single = {
+		fire_rate = 0.2
+	}
+		
 	--5/7 rof nerf
 	self.lemming.fire_mode_data = {
 		fire_rate = 0.125
@@ -43,6 +51,7 @@ Hooks:PostHook(WeaponTweakData, "init", "nerfpack_weapontweakdata", function(sel
 	self.qbu88.single = {
 		fire_rate = 0.48
 	}
+	
 	-- +0.5s reload for compact gl
 	self.slap.timers.reload_not_empty = 3
 		
